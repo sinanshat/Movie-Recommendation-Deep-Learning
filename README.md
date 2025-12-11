@@ -1,4 +1,4 @@
-# Movie-Recommender
+# Movie-Recommender System
 
 A Python-based movie recommendation system utilizing content-based filtering to suggest movies similar to a given title.
 
@@ -7,7 +7,6 @@ A Python-based movie recommendation system utilizing content-based filtering to 
 - [System Architecture / Workflow](#system-architecture--workflow)
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
-- 
 ## Features
 - Content-based movie recommendations using cosine similarity
 - Built with Python and Jupyter Notebook
